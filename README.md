@@ -2,6 +2,7 @@
 A Role Playing Game (RPG) I built using fundamental programming concepts in JavaScript. I use objects, arrays, functions, strings, loops, if/else statements, and other concepts. 
 
 The Dragon Repeller RPG. Choose from three options where you can go to the store to buy health and weapons, go the cave to fight monsters to gain gold and experience, and fighting the dragon. 
+
 ![2023-12-25_20h43_06](https://github.com/kylehraja/RolePlayingGame/assets/140476247/ac9bb72a-b6c5-42c7-8bb6-3541d2ee1d1a)
 
 Overview of the UI
