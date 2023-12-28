@@ -23,9 +23,7 @@ Fight the dragon when you are ready! There is an easter egg in the game also.
 
 How to run webpage:
 
-1) Download and unzip the RPG.zip file.
-2) Open in vscode.
-3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
+1) Copy and Paste the index.html, styles.css, and script.js into VS Code.
+2) Run the code (I used Chrome browser). 
 
 
